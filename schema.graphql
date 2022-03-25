@@ -8,3 +8,29 @@ type tokencreated @entity {
   totalSupply: BigInt! # uint256
   userAddress: Bytes! # address
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
