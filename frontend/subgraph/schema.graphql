@@ -1,0 +1,10 @@
+type tokencreated @entity {
+  id: ID!
+  tokenaddress: Bytes! # address
+  creator: Bytes! # address
+  name: String! # string
+  symbol: String! # string
+  deci: BigInt! # uint256
+  totalSupply: BigInt! # uint256
+  userAddress: Bytes! # address
+}
